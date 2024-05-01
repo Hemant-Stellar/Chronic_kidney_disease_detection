@@ -1,5 +1,6 @@
 # Chronic Kidney Disease Detection
  -  *Using flask and basic machine learning concepts I have built a small backend in flask to reuse the model*
+ -  [API REFERENCE](/POST.md)
 
 ## Steps for running project
  ###  *`Step-1`*
